@@ -1,0 +1,8 @@
+"C:/Users/Leeland/Documents/Titanium_Studio_Workspace/Leeland/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Leeland/Documents/Titanium_Studio_Workspace/Leeland/build/android/gen/com/projectList/www/ApplicationStylesheet.java"
+"C:/Users/Leeland/Documents/Titanium_Studio_Workspace/Leeland/build/android/gen/com/projectList/www/AssetCryptImpl.java"
+"C:/Users/Leeland/Documents/Titanium_Studio_Workspace/Leeland/build/android/gen/com/projectList/www/LeelandActivity.java"
+"C:/Users/Leeland/Documents/Titanium_Studio_Workspace/Leeland/build/android/gen/com/projectList/www/LeelandAppInfo.java"
+"C:/Users/Leeland/Documents/Titanium_Studio_Workspace/Leeland/build/android/gen/com/projectList/www/LeelandApplication.java"
+"C:/Users/Leeland/Documents/Titanium_Studio_Workspace/Leeland/build/android/gen/com/projectList/www/R.java"
+"C:/Users/Leeland/Documents/Titanium_Studio_Workspace/Leeland/build/android/gen/ti/modules/titanium/ui/R.java"
